@@ -4727,3 +4727,96 @@ The generated image uses the uploaded image as a reference for the character, we
 Her exquisite face is blurred with motion, the outline of her figure slightly swaying with the panning camera, the soft focus making the image even more hazy and languid. A warm-toned, low-saturation filter enhances the effect, her long, backlit hair glowing with a soft glow, the messy strands sweeping wildly across her jawline, the details concealing a captivating yet dangerous allure.Cute movements add dynamism, the motion blur blending with the film grain, creating a trendy, Instagram-worthy image while the blurred image outlines a dynamic scene full of story, cleverly balancing bewitching and sweetness.
 Follow : @AiwithZohaib
 ```
+
+### Case 274: [Fashion Casting Contact Sheet](https://x.com/Ciri_ai/status/2064027400426709259) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+![Fashion Casting Contact Sheet](../../images/portrait_case274/output.jpg)
+
+**Prompt:**
+```
+Black-and-white fashion casting contact sheet of [HUMAN] with [HAIR], arranged in a clean 2x2 grid of four close portrait frames against [BACKGROUND], wearing [CLOTHING] and [ACCESSORY]. Each frame shows a different expression and angle: [EXPRESSIONS]. Soft studio lighting, crisp monochrome contrast, natural skin texture, visible facial details, clean plain backdrop, subtle film grain, high-end editorial test shoot, minimal styling, intimate camera distance, professional portrait photography, aspect ratio 4:5.
+```
+
+
+### Case 275: [Identity-Locked Portrait Edit](https://x.com/Kashberg_0/status/2064022776600760625) (by [@Kashberg_0](https://x.com/Kashberg_0))
+
+![Identity-Locked Portrait Edit](../../images/portrait_case275/output.jpg)
+
+**Prompt:**
+```
+Use the uploaded portrait as the identity reference for the subject's face, hairstyle, facial structure, skin tone, expression, and overall impression.
+
+Create a high-quality realistic emotional portrait of the same person with a soft sad mood and visible tears.
+
+Core concept:
+- a delicate, emotionally touching close-up portrait
+- the subject looks quietly sad, as if holding back emotions
+- the mood should feel fragile, intimate, soft, and beautiful
+- the image should feel like a polished Korean-style emotional portrait
+
+Identity:
+- preserve the subject's recognizable identity
+- keep the same face shape, eyes, nose, lips, jawline, hairstyle, and overall vibe
+- do not make the face look generic or overly different
+- keep the beauty natural and believable
+
+Expression:
+- slightly sad expression
+- soft watery eyes
+- one or two visible tear streaks running down the cheek
+- lips softly closed or slightly parted
+- emotional but restrained, not exaggerated
+- the sadness should feel quiet, longing, and delicate
+
+Styling:
+- long dark hair with soft natural texture
+- a few loose strands falling across the face
+- clean natural makeup
+- luminous skin
+- simple dark top or minimal clothing visible
+- overall styling should remain clean and understated so the face is the focus
+
+Lighting:
+- soft, moody lighting
+- gentle highlights on the eyes, nose, lips, and tear tracks
+- subtle shadow depth
+- dark or muted background
+- the lighting should feel intimate and cinematic, not harsh
+
+Composition:
+- vertical portrait composition
+- close-up framing
+- place the face in the upper half of the frame
+- the center of the face should sit slightly above the vertical midpoint
+- the eyes should fall around the upper-middle area of the image
+- avoid placing the face too low in the frame
+- keep the composition visually balanced and elegant
+
+Mood and style:
+- Korean emotional beauty portrait
+- soft, melancholic, dreamy, intimate
+- elegant and photogenic
+- emotionally expressive without looking dramatic
+- beautiful but slightly heartbreaking
+
+Important visual priority:
+- preserve identity clearly
+- the face must remain the main focus
+- tears should be visible but subtle
+- expression should feel naturally sad and emotionally convincing
+- the portrait should look beautiful, soft, and emotionally immersive
+
+Negative prompt:
+- no exaggerated crying
+- no distorted face
+- no cartoon style
+- no anime style
+- no harsh flash
+- no messy background
+- no over-retouched plastic skin
+- no exaggerated smile
+- no low-resolution image
+- no text
+- no watermark
+```
+

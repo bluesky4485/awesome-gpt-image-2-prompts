@@ -6382,3 +6382,136 @@ prompt:
 
 A minimalist modern editorial illustration. Style: Nordic lifestyle magazine meets Korean literary book cover meets indie architectural sketch. Natural eye-level composition, everyday setting. Color palette: creamy white, ivory, gray-beige, sage green, deep olive, ink black, tiny touches of grayish-pink. Thin black ink outlines, slightly hand-drawn feel. Highly abstracted shapes, elongated quiet silhouettes. Background textures: aged paper grain, scratches, ink spots, print noise. Shadows rendered as solid blocks of pure black or dark green, no gradients, no realistic lighting, no 3D rendering. Quiet, cool, literary, restrained aesthetic. High-end editorial and independent publication finish. No text, no watermark, no high-saturation colors, no photographic feel.
 ```
+
+### Case 354: [World Cup Match Poster](https://x.com/lukmanfebrianto/status/2064159903531544961) (by [@lukmanfebrianto](https://x.com/lukmanfebrianto))
+
+![World Cup Match Poster](../../images/poster_case354/output.jpg)
+
+**Prompt:**
+```
+Photorealistic movie poster designed by a professional graphic designer with this concept:
+- The background is the venue, [Name of The Stadium, Location]
+- Main image showing Captain from [Country] Team: [Name] wearing national team jersey head to head with Captain from [Country] Team: [Name] wearing national team jersey
+- Main title is '[Country] vs [Country]'
+- Behind the title, waving flag of [Country] and [Country]
+- Below main title, text '[Name of The Stadium] - [Location], [Date]'
+- At the top, 'World Cup 2026' logo
+```
+
+
+### Case 355: [Cinematography Analysis Frame](https://x.com/bmx_ai13/status/2064109968203362408) (by [@bmx_ai13](https://x.com/bmx_ai13))
+
+![Cinematography Analysis Frame](../../images/poster_case355/output.jpg)
+
+**Prompt:**
+```
+Create a cinematic fashion editorial photograph in a bright minimal bedroom, presented as a cinematography composition analysis frame.
+
+Main Image: A young adult female model kneeling on a soft white bed beside a large window with sheer white curtains. She is positioned on the left third of the frame, body aligned with the vertical rule-of-thirds grid line. Her body leans slightly backward, facing toward the glowing window light with a calm, distant, introspective expression. The right side of the image is filled with a large bright white luminous mass from overexposed daylight through sheer curtains, balancing the darker subject on the left.
+
+Lighting: Strong natural window light from the right side creates high contrast on the model's face, upper body, waist, and silhouette. Add subtle secondary fill light from the left side to reveal shadow areas without flattening the contrast. Warm hazy morning atmosphere, soft highlights, realistic skin texture, gentle shadows, soft bloom near the curtains.
+
+Composition Overlay: Add visible cinematography composition guide graphics over the image, like a film school analysis frame.
+
+Include:
+- Rule of thirds grid lines in thin green.
+- A red vertical line showing the model's body aligned on the left rule of thirds grid.
+- Green circular focus markers around:
+  1. Waist and hip area as Focus Point 1.
+  2. Face area as Focus Point 2.
+  3. Bright curtain/window mass as Focus Point 3.
+- Yellow eye-trace arrows moving from the face to the waist/hip, then toward the glowing window.
+- Red leading-line arrows following the bed edge and wall panel lines toward the main focus point.
+- A cyan arrow showing secondary fill light coming from the left side.
+- Text labels placed cleanly around the frame:
+  “Body aligned on the grid of thirds”
+  “High contrast Focus Point 2”
+  “Eye Trace”
+  “Focus Point 3”
+  “High contrast Focus Point 1”
+  “Secondary light source for dark parts”
+  “Lines lead to the main focus point”
+  “The white mass is aligned on the grid of thirds to balance the left side of the image”
+
+Style: Luxury fashion editorial photography, soft cinematic realism, warm beige and white color palette, minimal bedroom, cream wall panels, white bedding, sheer curtains, subtle film grain, shallow depth of field, elegant composition, educational cinematography breakdown overlay.
+
+Camera: 35mm lens, medium wide framing, eye level camera angle, 16:9 widescreen.
+```
+
+
+### Case 356: [Vintage Anatomic Book Plate](https://x.com/livybabie/status/2064033077123236291) (by [@livybabie](https://x.com/livybabie))
+
+![Vintage Anatomic Book Plate](../../images/poster_case356/output.jpg)
+
+**Prompt:**
+```
+Edit the provided image into an antique anatomical book plate. Preserve the original character's pose, camera angle, body proportions, silhouette, gesture, and overall composition as closely as possible, but transform the subject into a refined anatomical study illustration. The final image should look like a vintage medical anatomy textbook page printed on aged ivory paper, with sepia stains, subtle paper fibers, worn edges, faint foxing marks, and archival ink texture.
+
+Convert the visible body into a clean anatomical sketch that reveals bones, superficial muscles, tendons, ligaments, and selected organ silhouettes in a didactic, non-gory, museum-quality style. Keep the anatomy elegant and educational, like a 19th-century anatomical atlas mixed with precise modern medical illustration. Use thin graphite lines, red and blue anatomical ink accents, muted watercolor washes, and delicate hatching. Avoid horror, gore, blood, injury, mutilation, or surgical violence.
+
+The figure must remain in the same pose as the source image, including limb position, torso rotation, head angle, gaze direction, hand placement, and perspective distortion. If the original image is anime, game art, illustration, or realistic photography, reinterpret it consistently as an anatomical diagram while keeping the recognizable posture and visual identity cues only as subtle external outlines. Clothing and accessories may be simplified into faint translucent contour lines so the anatomical structures remain readable.
+
+Add anatomical labels in Latin using a vintage typewriter font, as if typed onto the page. Labels should be connected to structures with thin black leader lines. Use accurate Latin anatomical terminology, including examples such as: Cranium, Mandibula, Clavicula, Sternum, Costae, Scapula, Humerus, Radius, Ulna, Vertebrae cervicales, Vertebrae thoracicae, Vertebrae lumbales, Pelvis, Os ilium, Os ischii, Femur, Patella, Tibia, Fibula, Talus, Calcaneus, Musculus sternocleidomastoideus, Musculus trapezius, Musculus pectoralis major, Musculus deltoideus, Musculus biceps brachii, Musculus rectus abdominis, Musculus obliquus externus abdominis, Musculus iliopsoas, Musculus gluteus maximus, Musculus sartorius, Musculus quadriceps femoris, Musculus biceps femoris, Musculus gastrocnemius, Ligamentum inguinale, Articulatio coxae, Articulatio genus, Articulatio talocruralis.
+
+Place the labels naturally around the figure, balancing readability and visual elegance. The text should look authentic, slightly imperfect, with subtle ink bleed, uneven typewriter spacing, and small alignment irregularities. Include a small archival caption at the bottom of the page, such as “Tabula Anatomica — Figura I”, “Studium Corporis Humani”, or “Atlas Anatomicus Vetus”. Do not use Japanese labels unless specifically requested; prioritize Latin anatomical nomenclature.
+
+Lighting should be soft and flat like a scanned antique page. The final result must feel like a scholarly anatomical illustration, not a modern infographic. High detail, precise linework, aged paper texture, anatomical accuracy, elegant composition, subtle red muscle fibers, pale blue veins, ivory bone rendering, dark graphite outlines, old medical atlas atmosphere, realistic printed-page imperfections.
+```
+
+
+### Case 357: [Crowd Mosaic Football Portrait](https://x.com/Taaruk_/status/2064032287969481186) (by [@Taaruk_](https://x.com/Taaruk_))
+
+![Crowd Mosaic Football Portrait](../../images/poster_case357/output.jpg)
+
+**Prompt:**
+```
+Ultra-detailed crowd mosaic portrait of a legendary football player, created entirely from thousands of tiny people standing and walking on a vast white surface. From a distance, the crowd forms a hyper-realistic giant face and upper body portrait; up close, every individual person is clearly visible. Long cinematic shadows, aerial top-down perspective, massive scale, intricate human arrangement, photorealistic details, high contrast lighting, clean minimalist background, depth and dimension, masterpiece composition, ultra-sharp focus, 8K resolution, social art installation, human mosaic effect, volumetric lighting, realistic skin tones formed by crowd density, award-winning conceptual photography, breathtaking visual illusion, drone photography, highly detailed faces, premium quality, modern generative art.
+```
+
+
+### Case 358: [Origami Food Poster](https://x.com/Gdgtify/status/2064020126937039318) (by [@Gdgtify](https://x.com/Gdgtify))
+
+![Origami Food Poster](../../images/poster_case358/output.jpg)
+
+**Prompt:**
+```
+INPUT: [layered dish]
+
+SYSTEM: Render the input as a master-folded origami and paper-craft architectural sculpture. Do not hardcode paper types unless inevitable. Infer the fold-geometry logic, structural load-bearing creases, layer-separation mechanics, color-blocking strategy, and the tactile grain direction of the materials.
+
+SEMANTIC SOLVE: ORIGAMI_FOOD_AUTOPSY = 
+  (INFER(fold_geometry FROM mountain_valley_ratio + structural_crease_load + interlocking_tabs + negative_space_utilization) ::5) + 
+  (INFER(material_logic FROM paper_grain_direction + GSM_weight + surface_coating + edge_burnishing + adhesive_visibility) ::4) + 
+  (INFER(color_blocking FROM ingredient_color_mapping + contrast_hierarchy + gradient_paper_layering + visual_weight_distribution) ::4) + 
+  (INFER(hidden_craft FROM fold_sequence_complexity + tolerance_margins + tool_marks + humidity_warping_prevention) ::3) - 
+  (messy torn paper + realistic food textures + digital 3D paper shaders + cluttered craft desk + childish simple folds) ::-4
+
+COMPOSITION: One central food item completely reconstructed as an intricate, multi-layered paper-craft sculpture. The "ingredients" are represented by distinct, beautifully colored paper layers, cut and folded with razor-sharp precision. Show the "exploded" floating layers hovering above the base, revealing the internal fold structure and interlocking tabs.
+
+STYLE DNA: Intricate paper cutting art ::0.35 high-end origami photography ::0.25 flat-shaded C4D stylization ::0.20 crisp vector-like edges ::0.15 soft directional macro lighting ::0.05
+
+OUTPUT: Soft off-white or pastel background, elegant minimalist typography, razor-sharp crisp edges, flawless flat-shaded colors with subtle paper grain textures, premium negative space.
+
+NEGATIVE: no holograms, no bioluminescent glows, no VR/AR elements, no realistic food photography, no messy torn paper edges, no visible digital 3D artifacts, no cluttered backgrounds, no watermark.
+```
+
+
+### Case 359: [Surrealism History Timeline](https://x.com/92digitalartArt/status/2064012013357928462) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+![Surrealism History Timeline](../../images/poster_case359/output.jpg)
+
+**Prompt:**
+```
+A surrealist historical timeline infographic poster in 16:9 horizontal format inspired by Salvador Dalí, featuring a dreamlike desert landscape where a long melting clock transforms into a winding historical timeline path across the composition, with floating doors, stretched shadows, levitating drawers, cracked stone statues, and impossible reflections merging into one symbolic world; the timeline should run diagonally from left to right like a dream corridor, with key surrealism dates placed inside small elegant labels, including 1917, 1924, 1929, 1936, 1940s and 1960s, each date connected to a strange symbolic object such as an eye, an egg, a telephone, a bird cage, a face, or a candle, all drawn with refined illusionistic detail; the background should be a warm twilight gradient blending sand beige, pale gold, faded blue and shadowy violet, with clouds that look like painted smoke and a horizon that bends unnaturally; the title should be placed at the top center in large dramatic serif typography reading SURREALISM, with the subtitle TIMELINE OF THE SUBCONSCIOUS beneath it in smaller elegant text; fact panels should be placed asymmetrically around the dreamscape, each one framed like a museum label but slightly distorted, with short sections labeled ORIGINS, MANIFESTO, KEY ARTISTS, DREAM LOGIC, FAMOUS WORKS, and LEGACY, plus a small DID YOU KNOW? box near the lower right with five original facts; the entire image should feel uncanny, poetic, intellectually rich, visually luxurious, and unmistakably surrealist, with no copied artwork, no logos, no modern UI, 16:9 horizontal ratio
+```
+
+
+### Case 360: [3D Travel Ticket](https://x.com/AIwithkhan/status/2063963460963270774) (by [@AIwithkhan](https://x.com/AIwithkhan))
+
+![3D Travel Ticket](../../images/poster_case360/output.jpg)
+
+**Prompt:**
+```
+Photorealistic 3D travel ticket concept, a close-up human hand holding a large vintage “NYC All Access Pass” ticket in front of a clean cream-colored background. The ticket acts as a portal window into New York City, revealing a detailed miniature Manhattan street scene inside the cutout frame. A realistic yellow NYC taxi emerges out of the ticket in 3D onto a floating road platform, creating a pop-out effect. The Empire State Building rises dramatically behind the ticket, with hand-drawn sketch illustrations of the Statue of Liberty, Brooklyn Bridge, Broadway sign, and coffee cup surrounding the composition. Premium paper texture, cinematic lighting, warm golden-hour tones, ultra-detailed miniature city diorama, depth of field, travel advertisement aesthetic, creative paper-craft design, hyperrealistic, clean studio background, professional product photography, sharp focus, 8K, vertical composition.
+```
+

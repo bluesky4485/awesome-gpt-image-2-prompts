@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![763 Curated Prompts](https://img.shields.io/badge/Prompts-763_Curated_Cases-111111)](README.md)
+[![775 Curated Prompts](https://img.shields.io/badge/Prompts-775_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -41,7 +41,7 @@
 
 Welcome to the **Awesome GPT Image 2 API and Prompts** repository! 🤗
 
-A curated collection of **763+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
+A curated collection of **775+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
 
 Whether you're looking for GPT-Image-2 prompt examples, text-to-image best practices, image editing techniques, or ready-to-use prompt templates — this is your one-stop reference.
 
@@ -77,6 +77,8 @@ Works with OpenAI's standard API format (`/v1/images/generations`)
 > Learn more about using the API in the Use GPT Image 2 API section below.
 
 ## 📰 Novidades
+
+**9 de junho de 2026:** Adicionados 12 novos casos de prompts GPT-Image-2 (2 retrato, 7 pôster, 2 comparação, 1 e-commerce) do lote de curadoria diária após revisão e validação de mídia
 
 **8 de junho de 2026:** Adicionados 24 novos casos de prompts GPT-Image-2 (5 retrato, 7 pôster, 5 UI, 3 e-commerce, 4 comparação) do lote diário após aprovação, recuperação de threads e validação de mídia
 
@@ -331,6 +333,19 @@ The final image should feel like a world-class luxury editorial ad from a top cr
 Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, weak framing, visual clutter, cheap styling, generic catalog presentation, text, watermark, and logos.
 ```
 
+
+<!-- Case 171: Miniature Brand Universe Shoe (by @AIwithAliya) -->
+### Case 171: [Miniature Brand Universe Shoe](https://x.com/AIwithAliya/status/2064034557352202253) (by [@AIwithAliya](https://x.com/AIwithAliya))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case171/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A high-performance running shoe transformed into a miniature brand universe. The shoe is the hero character, surrounded by floating speed trails, miniature running tracks, energetic mascot companions, stopwatch icons, clouds, and dynamic sports-inspired elements. Oversized bold typography integrated into the scene. Clean commercial 3D rendering, pastel orange, white, and gray color palette derived from the product, premium packaging aesthetics, soft gloss, graphic backgrounds, floating platforms, collectible toy-like charm. Modern consumer branding, cute yet premium, highly shareable social-media campaign visual, rich detail, centered composition, studio quality.
+```
 
 ## 📣 Ad Creative Cases
 
@@ -2080,6 +2095,105 @@ Her exquisite face is blurred with motion, the outline of her figure slightly sw
 Follow : @AiwithZohaib
 ```
 
+
+<!-- Case 274: Fashion Casting Contact Sheet (by @Ciri_ai) -->
+### Case 274: [Fashion Casting Contact Sheet](https://x.com/Ciri_ai/status/2064027400426709259) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case274/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Black-and-white fashion casting contact sheet of [HUMAN] with [HAIR], arranged in a clean 2x2 grid of four close portrait frames against [BACKGROUND], wearing [CLOTHING] and [ACCESSORY]. Each frame shows a different expression and angle: [EXPRESSIONS]. Soft studio lighting, crisp monochrome contrast, natural skin texture, visible facial details, clean plain backdrop, subtle film grain, high-end editorial test shoot, minimal styling, intimate camera distance, professional portrait photography, aspect ratio 4:5.
+```
+
+<!-- Case 275: Identity-Locked Portrait Edit (by @Kashberg_0) -->
+### Case 275: [Identity-Locked Portrait Edit](https://x.com/Kashberg_0/status/2064022776600760625) (by [@Kashberg_0](https://x.com/Kashberg_0))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case275/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Use the uploaded portrait as the identity reference for the subject's face, hairstyle, facial structure, skin tone, expression, and overall impression.
+
+Create a high-quality realistic emotional portrait of the same person with a soft sad mood and visible tears.
+
+Core concept:
+- a delicate, emotionally touching close-up portrait
+- the subject looks quietly sad, as if holding back emotions
+- the mood should feel fragile, intimate, soft, and beautiful
+- the image should feel like a polished Korean-style emotional portrait
+
+Identity:
+- preserve the subject's recognizable identity
+- keep the same face shape, eyes, nose, lips, jawline, hairstyle, and overall vibe
+- do not make the face look generic or overly different
+- keep the beauty natural and believable
+
+Expression:
+- slightly sad expression
+- soft watery eyes
+- one or two visible tear streaks running down the cheek
+- lips softly closed or slightly parted
+- emotional but restrained, not exaggerated
+- the sadness should feel quiet, longing, and delicate
+
+Styling:
+- long dark hair with soft natural texture
+- a few loose strands falling across the face
+- clean natural makeup
+- luminous skin
+- simple dark top or minimal clothing visible
+- overall styling should remain clean and understated so the face is the focus
+
+Lighting:
+- soft, moody lighting
+- gentle highlights on the eyes, nose, lips, and tear tracks
+- subtle shadow depth
+- dark or muted background
+- the lighting should feel intimate and cinematic, not harsh
+
+Composition:
+- vertical portrait composition
+- close-up framing
+- place the face in the upper half of the frame
+- the center of the face should sit slightly above the vertical midpoint
+- the eyes should fall around the upper-middle area of the image
+- avoid placing the face too low in the frame
+- keep the composition visually balanced and elegant
+
+Mood and style:
+- Korean emotional beauty portrait
+- soft, melancholic, dreamy, intimate
+- elegant and photogenic
+- emotionally expressive without looking dramatic
+- beautiful but slightly heartbreaking
+
+Important visual priority:
+- preserve identity clearly
+- the face must remain the main focus
+- tears should be visible but subtle
+- expression should feel naturally sad and emotionally convincing
+- the portrait should look beautiful, soft, and emotionally immersive
+
+Negative prompt:
+- no exaggerated crying
+- no distorted face
+- no cartoon style
+- no anime style
+- no harsh flash
+- no messy background
+- no over-retouched plastic skin
+- no exaggerated smile
+- no low-resolution image
+- no text
+- no watermark
+```
 
 ## 🎨 Poster & Illustration Cases
 
@@ -4437,6 +4551,160 @@ A minimalist modern editorial illustration. Style: Nordic lifestyle magazine mee
 ```
 
 
+<!-- Case 354: World Cup Match Poster (by @lukmanfebrianto) -->
+### Case 354: [World Cup Match Poster](https://x.com/lukmanfebrianto/status/2064159903531544961) (by [@lukmanfebrianto](https://x.com/lukmanfebrianto))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case354/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Photorealistic movie poster designed by a professional graphic designer with this concept:
+- The background is the venue, [Name of The Stadium, Location]
+- Main image showing Captain from [Country] Team: [Name] wearing national team jersey head to head with Captain from [Country] Team: [Name] wearing national team jersey
+- Main title is '[Country] vs [Country]'
+- Behind the title, waving flag of [Country] and [Country]
+- Below main title, text '[Name of The Stadium] - [Location], [Date]'
+- At the top, 'World Cup 2026' logo
+```
+
+<!-- Case 355: Cinematography Analysis Frame (by @bmx_ai13) -->
+### Case 355: [Cinematography Analysis Frame](https://x.com/bmx_ai13/status/2064109968203362408) (by [@bmx_ai13](https://x.com/bmx_ai13))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case355/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a cinematic fashion editorial photograph in a bright minimal bedroom, presented as a cinematography composition analysis frame.
+
+Main Image: A young adult female model kneeling on a soft white bed beside a large window with sheer white curtains. She is positioned on the left third of the frame, body aligned with the vertical rule-of-thirds grid line. Her body leans slightly backward, facing toward the glowing window light with a calm, distant, introspective expression. The right side of the image is filled with a large bright white luminous mass from overexposed daylight through sheer curtains, balancing the darker subject on the left.
+
+Lighting: Strong natural window light from the right side creates high contrast on the model's face, upper body, waist, and silhouette. Add subtle secondary fill light from the left side to reveal shadow areas without flattening the contrast. Warm hazy morning atmosphere, soft highlights, realistic skin texture, gentle shadows, soft bloom near the curtains.
+
+Composition Overlay: Add visible cinematography composition guide graphics over the image, like a film school analysis frame.
+
+Include:
+- Rule of thirds grid lines in thin green.
+- A red vertical line showing the model's body aligned on the left rule of thirds grid.
+- Green circular focus markers around:
+  1. Waist and hip area as Focus Point 1.
+  2. Face area as Focus Point 2.
+  3. Bright curtain/window mass as Focus Point 3.
+- Yellow eye-trace arrows moving from the face to the waist/hip, then toward the glowing window.
+- Red leading-line arrows following the bed edge and wall panel lines toward the main focus point.
+- A cyan arrow showing secondary fill light coming from the left side.
+- Text labels placed cleanly around the frame:
+  “Body aligned on the grid of thirds”
+  “High contrast Focus Point 2”
+  “Eye Trace”
+  “Focus Point 3”
+  “High contrast Focus Point 1”
+  “Secondary light source for dark parts”
+  “Lines lead to the main focus point”
+  “The white mass is aligned on the grid of thirds to balance the left side of the image”
+
+Style: Luxury fashion editorial photography, soft cinematic realism, warm beige and white color palette, minimal bedroom, cream wall panels, white bedding, sheer curtains, subtle film grain, shallow depth of field, elegant composition, educational cinematography breakdown overlay.
+
+Camera: 35mm lens, medium wide framing, eye level camera angle, 16:9 widescreen.
+```
+
+<!-- Case 356: Vintage Anatomic Book Plate (by @livybabie) -->
+### Case 356: [Vintage Anatomic Book Plate](https://x.com/livybabie/status/2064033077123236291) (by [@livybabie](https://x.com/livybabie))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case356/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Edit the provided image into an antique anatomical book plate. Preserve the original character's pose, camera angle, body proportions, silhouette, gesture, and overall composition as closely as possible, but transform the subject into a refined anatomical study illustration. The final image should look like a vintage medical anatomy textbook page printed on aged ivory paper, with sepia stains, subtle paper fibers, worn edges, faint foxing marks, and archival ink texture.
+
+Convert the visible body into a clean anatomical sketch that reveals bones, superficial muscles, tendons, ligaments, and selected organ silhouettes in a didactic, non-gory, museum-quality style. Keep the anatomy elegant and educational, like a 19th-century anatomical atlas mixed with precise modern medical illustration. Use thin graphite lines, red and blue anatomical ink accents, muted watercolor washes, and delicate hatching. Avoid horror, gore, blood, injury, mutilation, or surgical violence.
+
+The figure must remain in the same pose as the source image, including limb position, torso rotation, head angle, gaze direction, hand placement, and perspective distortion. If the original image is anime, game art, illustration, or realistic photography, reinterpret it consistently as an anatomical diagram while keeping the recognizable posture and visual identity cues only as subtle external outlines. Clothing and accessories may be simplified into faint translucent contour lines so the anatomical structures remain readable.
+
+Add anatomical labels in Latin using a vintage typewriter font, as if typed onto the page. Labels should be connected to structures with thin black leader lines. Use accurate Latin anatomical terminology, including examples such as: Cranium, Mandibula, Clavicula, Sternum, Costae, Scapula, Humerus, Radius, Ulna, Vertebrae cervicales, Vertebrae thoracicae, Vertebrae lumbales, Pelvis, Os ilium, Os ischii, Femur, Patella, Tibia, Fibula, Talus, Calcaneus, Musculus sternocleidomastoideus, Musculus trapezius, Musculus pectoralis major, Musculus deltoideus, Musculus biceps brachii, Musculus rectus abdominis, Musculus obliquus externus abdominis, Musculus iliopsoas, Musculus gluteus maximus, Musculus sartorius, Musculus quadriceps femoris, Musculus biceps femoris, Musculus gastrocnemius, Ligamentum inguinale, Articulatio coxae, Articulatio genus, Articulatio talocruralis.
+
+Place the labels naturally around the figure, balancing readability and visual elegance. The text should look authentic, slightly imperfect, with subtle ink bleed, uneven typewriter spacing, and small alignment irregularities. Include a small archival caption at the bottom of the page, such as “Tabula Anatomica — Figura I”, “Studium Corporis Humani”, or “Atlas Anatomicus Vetus”. Do not use Japanese labels unless specifically requested; prioritize Latin anatomical nomenclature.
+
+Lighting should be soft and flat like a scanned antique page. The final result must feel like a scholarly anatomical illustration, not a modern infographic. High detail, precise linework, aged paper texture, anatomical accuracy, elegant composition, subtle red muscle fibers, pale blue veins, ivory bone rendering, dark graphite outlines, old medical atlas atmosphere, realistic printed-page imperfections.
+```
+
+<!-- Case 357: Crowd Mosaic Football Portrait (by @Taaruk_) -->
+### Case 357: [Crowd Mosaic Football Portrait](https://x.com/Taaruk_/status/2064032287969481186) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case357/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Ultra-detailed crowd mosaic portrait of a legendary football player, created entirely from thousands of tiny people standing and walking on a vast white surface. From a distance, the crowd forms a hyper-realistic giant face and upper body portrait; up close, every individual person is clearly visible. Long cinematic shadows, aerial top-down perspective, massive scale, intricate human arrangement, photorealistic details, high contrast lighting, clean minimalist background, depth and dimension, masterpiece composition, ultra-sharp focus, 8K resolution, social art installation, human mosaic effect, volumetric lighting, realistic skin tones formed by crowd density, award-winning conceptual photography, breathtaking visual illusion, drone photography, highly detailed faces, premium quality, modern generative art.
+```
+
+<!-- Case 358: Origami Food Poster (by @Gdgtify) -->
+### Case 358: [Origami Food Poster](https://x.com/Gdgtify/status/2064020126937039318) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case358/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+INPUT: [layered dish]
+
+SYSTEM: Render the input as a master-folded origami and paper-craft architectural sculpture. Do not hardcode paper types unless inevitable. Infer the fold-geometry logic, structural load-bearing creases, layer-separation mechanics, color-blocking strategy, and the tactile grain direction of the materials.
+
+SEMANTIC SOLVE: ORIGAMI_FOOD_AUTOPSY = 
+  (INFER(fold_geometry FROM mountain_valley_ratio + structural_crease_load + interlocking_tabs + negative_space_utilization) ::5) + 
+  (INFER(material_logic FROM paper_grain_direction + GSM_weight + surface_coating + edge_burnishing + adhesive_visibility) ::4) + 
+  (INFER(color_blocking FROM ingredient_color_mapping + contrast_hierarchy + gradient_paper_layering + visual_weight_distribution) ::4) + 
+  (INFER(hidden_craft FROM fold_sequence_complexity + tolerance_margins + tool_marks + humidity_warping_prevention) ::3) - 
+  (messy torn paper + realistic food textures + digital 3D paper shaders + cluttered craft desk + childish simple folds) ::-4
+
+COMPOSITION: One central food item completely reconstructed as an intricate, multi-layered paper-craft sculpture. The "ingredients" are represented by distinct, beautifully colored paper layers, cut and folded with razor-sharp precision. Show the "exploded" floating layers hovering above the base, revealing the internal fold structure and interlocking tabs.
+
+STYLE DNA: Intricate paper cutting art ::0.35 high-end origami photography ::0.25 flat-shaded C4D stylization ::0.20 crisp vector-like edges ::0.15 soft directional macro lighting ::0.05
+
+OUTPUT: Soft off-white or pastel background, elegant minimalist typography, razor-sharp crisp edges, flawless flat-shaded colors with subtle paper grain textures, premium negative space.
+
+NEGATIVE: no holograms, no bioluminescent glows, no VR/AR elements, no realistic food photography, no messy torn paper edges, no visible digital 3D artifacts, no cluttered backgrounds, no watermark.
+```
+
+<!-- Case 359: Surrealism History Timeline (by @92digitalartArt) -->
+### Case 359: [Surrealism History Timeline](https://x.com/92digitalartArt/status/2064012013357928462) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case359/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A surrealist historical timeline infographic poster in 16:9 horizontal format inspired by Salvador Dalí, featuring a dreamlike desert landscape where a long melting clock transforms into a winding historical timeline path across the composition, with floating doors, stretched shadows, levitating drawers, cracked stone statues, and impossible reflections merging into one symbolic world; the timeline should run diagonally from left to right like a dream corridor, with key surrealism dates placed inside small elegant labels, including 1917, 1924, 1929, 1936, 1940s and 1960s, each date connected to a strange symbolic object such as an eye, an egg, a telephone, a bird cage, a face, or a candle, all drawn with refined illusionistic detail; the background should be a warm twilight gradient blending sand beige, pale gold, faded blue and shadowy violet, with clouds that look like painted smoke and a horizon that bends unnaturally; the title should be placed at the top center in large dramatic serif typography reading SURREALISM, with the subtitle TIMELINE OF THE SUBCONSCIOUS beneath it in smaller elegant text; fact panels should be placed asymmetrically around the dreamscape, each one framed like a museum label but slightly distorted, with short sections labeled ORIGINS, MANIFESTO, KEY ARTISTS, DREAM LOGIC, FAMOUS WORKS, and LEGACY, plus a small DID YOU KNOW? box near the lower right with five original facts; the entire image should feel uncanny, poetic, intellectually rich, visually luxurious, and unmistakably surrealist, with no copied artwork, no logos, no modern UI, 16:9 horizontal ratio
+```
+
+<!-- Case 360: 3D Travel Ticket (by @AIwithkhan) -->
+### Case 360: [3D Travel Ticket](https://x.com/AIwithkhan/status/2063963460963270774) (by [@AIwithkhan](https://x.com/AIwithkhan))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case360/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Photorealistic 3D travel ticket concept, a close-up human hand holding a large vintage “NYC All Access Pass” ticket in front of a clean cream-colored background. The ticket acts as a portal window into New York City, revealing a detailed miniature Manhattan street scene inside the cutout frame. A realistic yellow NYC taxi emerges out of the ticket in 3D onto a floating road platform, creating a pop-out effect. The Empire State Building rises dramatically behind the ticket, with hand-drawn sketch illustrations of the Statue of Liberty, Brooklyn Bridge, Broadway sign, and coffee cup surrounding the composition. Premium paper texture, cinematic lighting, warm golden-hour tones, ultra-detailed miniature city diorama, depth of field, travel advertisement aesthetic, creative paper-craft design, hyperrealistic, clean studio background, professional product photography, sharp focus, 8K, vertical composition.
+```
+
 ## 🧍 Character Design Cases
 
 > **4 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
@@ -6457,6 +6725,78 @@ KEY INSTRUCTIONS:
 * Do not show panel boxes, labels, numbers, captions, storyboard borders, or camera notes.
 ```
 
+
+<!-- Case 100: Action Storyboard Sheet (by @neural_aperture) -->
+### Case 100: [Action Storyboard Sheet](https://x.com/neural_aperture/status/2064048487583424581) (by [@neural_aperture](https://x.com/neural_aperture))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case100/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a 16:9 image.
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: KUROSHI VS ARACHNEX: BLITZ
+META LINE: relentless explosive / futuristic samurai vs spider-mech / max-dynamism one-take action
+PRIORITY: constant motion readability, one-take camera continuity, leg-cut and core-kill clarity, massive scale contrast
+MICRO BRIEF: Build a compact rough-sketch storyboard sheet for a 15-second Seedance BLITZ sequence where KUROSHI destroys ARACHNEX with uninterrupted high-speed katana choreography.
+[CONTINUITY HEADER]
+SEQUENCE ID: KUR-ARX-BLITZ-15S-STB
+REFERENCE PRIORITY: @image1 controls C1 KUROSHI identity, wardrobe, armor, helmet, cables, katana, proportions; @image2 controls C2 ARACHNEX identity, weapon layout, eight-leg structure, scale, armor; @image3 controls P01 starting-frame composition exactly; storyboard controls staging, camera sampling, movement, geography, damage continuity.
+[SCENE PACKET]
+PREMISE: KUROSHI erupts from a cold starting-frame profile into a relentless one-take fight, sprinting through ARACHNEX's attacks, climbing the machine, and killing it through the sensor core.
+LOCATION: open Japanese mountain field at blue hour, ankle-high wind-blown grass, wet earth, ground mist, distant pine ridges, layered mountain silhouettes, wide sky, no buildings, no roads, no extra fighters.
+```
+
+<!-- Case 101: Churro Maker Storyboard Poster (by @TechieBySA) -->
+### Case 101: [Churro Maker Storyboard Poster](https://x.com/TechieBySA/status/2064032022830502202) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case101/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+“Create a crisp, clean infographic storyboard poster for THE CHURRO MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — golden fried dough, sparkling white cinnamon sugar, rich dark chocolate sauce, vivid warm Spanish street food energy throughout.
+
+Top header:
+
+•THE CHURRO MAKER
+•TOTAL VIDEO TIME: 12 SECONDS
+• 8 SHOTS · GOLDEN · CRISPY · IRRESISTIBLE
+•Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+
+Same Pixar-style young Spanish male street vendor throughout — warm smile, white t-shirt, red apron, small bright outdoor churro cart, morning sunshine, cobblestone street, warm golden light everywhere. Fresh, bright, joyful — nothing dark, nothing moody.
+
+8 panels:
+
+Panel 1 — THE OPENER: Wide shot. Young vendor stands behind his bright churro cart on a sunny cobblestone street, morning light flooding everything. He ties his red apron with a warm confident smile, looks up at the camera. The churro machine gleaming beside him. Bright blue sky above. You know exactly what’s coming.
+
+Panel 2 — THE DOUGH: Close-up. Thick churro dough being loaded into the piping gun — smooth, pale, creamy. Vendor’s hands pressing it in firmly. Steam rising slightly. The dough is alive and ready.
+
+Panel 3 — THE PIPE: The most satisfying panel. Close-up dramatic shot — vendor squeezes the piping gun over hot golden oil, a perfect ridged churro rope emerging in a long straight line, the star-shaped ridges crisp and defined. The dough hits the oil with an immediate aggressive sizzle. Bright and energetic.
+
+Panel 4 — THE FRY: Wide medium shot with vendor visible. Churros frying in vivid golden oil — bubbling vigorously all around them, the color deepening from pale to rich gold before your eyes. Vendor watches with a satisfied expression, tongs ready. The transformation happening live.
+
+Panel 5 — THE LIFT: Close-up hero shot. Tongs lifting a perfectly fried churro from the oil — golden, crispy, glistening, held up against the bright morning sky. Oil dripping back into the fryer below. The most beautiful single churro you have ever seen.
+
+Panel 6 — THE SUGAR ROLL: The scroll-stopper. Close-up overhead. The hot churro rolled through a tray of cinnamon sugar — white sugar and cinnamon coating every ridge perfectly, sparkling in the morning light, the heat making the sugar cling and glisten. The most textural and satisfying panel.
+
+Panel 7 — THE CHOCOLATE: Beauty shot. Dark glossy chocolate dipping sauce poured into a small white ceramic cup in a slow arc — rich, dark, steaming. The churro resting beside it, golden and sugar-coated. The contrast of deep dark chocolate against bright golden churro. Irresistible.
+
+Panel 8 — THE DIP AND BITE: Wide warm shot. A customer’s hand dips the churro into the chocolate sauce — it comes out coated and glossy — then takes a bite. The crunch implied in every pixel. Eyes close. Pure street food joy. Vendor visible in the background, arms crossed, warm proud smile. Morning sunshine all around.
+
+Footer:
+
+•VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Dough to first dip.
+•CAMERA TIPS: wide on the sunny opener, close-up on the pipe into oil, wide medium on the fry, hero close-up on the lift, overhead on the sugar roll, beauty shot on the chocolate pour, wide warm on the dip and bite
+•LIGHT & STYLE: bright warm Spanish morning sunshine throughout, golden fried dough, sparkling white cinnamon sugar, rich dark chocolate, vivid red apron, cobblestone street, Pixar vivid bright colors — nothing dark, nothing moody
+•VENDOR NOTES: one vendor, one cart, one perfect churro. Golden, crispy, and impossible to walk past.”
+```
 
 ## 🤝 How to Contribute
 
